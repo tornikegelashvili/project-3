@@ -1,0 +1,23 @@
+.title{
+    background-color: blue;
+    height: 200px;
+    color: aliceblue;
+    padding-left: 200px;
+    padding-top: 50px;
+}
+img{
+    width: 400px;
+    height: 350px;
+    padding: 10px;
+}
+.img-2{
+    width: 400px;
+    padding-bottom: 50px;
+    margin-bottom: 50px;
+}
+
+.other{
+    padding-top: 500px;
+    margin-left:1600px;
+}
+
